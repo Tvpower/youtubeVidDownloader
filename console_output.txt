@@ -1,0 +1,244 @@
+(.venv) tvpower@Tv:~/PycharmProjects/youtubeVidDownloader$ python downloader.py
+YouTube Multi-Video Downloader
+========================================
+Starting download of 10 videos...
+Download directory: /home/tvpower/PycharmProjects/youtubeVidDownloader/downloads
+--------------------------------------------------
+
+[1/10] Processing: https://youtu.be/9uxvKLSKpPA?si=g_RfxgG-LGlEVhE7
+[youtube] Extracting URL: https://youtu.be/9uxvKLSKpPA?si=g_RfxgG-LGlEVhE7
+[youtube] 9uxvKLSKpPA: Downloading webpage
+[youtube] 9uxvKLSKpPA: Downloading tv simply player API JSON
+[youtube] 9uxvKLSKpPA: Downloading tv client config
+[youtube] 9uxvKLSKpPA: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim - How to Pass Everybody
+Duration: 5:43
+[youtube] Extracting URL: https://youtu.be/9uxvKLSKpPA?si=g_RfxgG-LGlEVhE7
+[youtube] 9uxvKLSKpPA: Downloading webpage
+[youtube] 9uxvKLSKpPA: Downloading tv simply player API JSON
+[youtube] 9uxvKLSKpPA: Downloading tv client config
+[youtube] 9uxvKLSKpPA: Downloading tv player API JSON
+[info] 9uxvKLSKpPA: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim - How to Pass Everybody.f137.mp4
+[download] 100% of  183.57MiB in 00:00:30 at 6.09MiB/s
+[download] Destination: downloads/K1 Speed Anaheim - How to Pass Everybody.f140.m4a
+[download] 100% of    5.30MiB in 00:00:01 at 5.03MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim - How to Pass Everybody.mp4"
+Deleting original file downloads/K1 Speed Anaheim - How to Pass Everybody.f140.m4a (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim - How to Pass Everybody.f137.mp4 (pass -k to keep)
+
+[2/10] Processing: https://youtu.be/NCPIBPGJTFk?si=N-KiG-EeUVIGYbYS
+[youtube] Extracting URL: https://youtu.be/NCPIBPGJTFk?si=N-KiG-EeUVIGYbYS
+[youtube] NCPIBPGJTFk: Downloading webpage
+[youtube] NCPIBPGJTFk: Downloading tv simply player API JSON
+[youtube] NCPIBPGJTFk: Downloading tv client config
+[youtube] NCPIBPGJTFk: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim - 25.342 Avg.
+Duration: 5:27
+[youtube] Extracting URL: https://youtu.be/NCPIBPGJTFk?si=N-KiG-EeUVIGYbYS
+[youtube] NCPIBPGJTFk: Downloading webpage
+[youtube] NCPIBPGJTFk: Downloading tv simply player API JSON
+[youtube] NCPIBPGJTFk: Downloading tv client config
+[youtube] NCPIBPGJTFk: Downloading tv player API JSON
+[info] NCPIBPGJTFk: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim - 25.342 Avg..f137.mp4
+[download] 100% of  174.50MiB in 00:00:50 at 3.48MiB/s
+[download] Destination: downloads/K1 Speed Anaheim - 25.342 Avg..f140.m4a
+[download] 100% of    5.05MiB in 00:00:01 at 4.34MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim - 25.342 Avg..mp4"
+Deleting original file downloads/K1 Speed Anaheim - 25.342 Avg..f140.m4a (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim - 25.342 Avg..f137.mp4 (pass -k to keep)
+
+[3/10] Processing: https://youtu.be/gsUPN9h9Kd4?si=dU59r4Wqy2SExVvc
+[youtube] Extracting URL: https://youtu.be/gsUPN9h9Kd4?si=dU59r4Wqy2SExVvc
+[youtube] gsUPN9h9Kd4: Downloading webpage
+[youtube] gsUPN9h9Kd4: Downloading tv simply player API JSON
+[youtube] gsUPN9h9Kd4: Downloading tv client config
+[youtube] gsUPN9h9Kd4: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim, CA New Record Time!
+Duration: 6:12
+[youtube] Extracting URL: https://youtu.be/gsUPN9h9Kd4?si=dU59r4Wqy2SExVvc
+[youtube] gsUPN9h9Kd4: Downloading webpage
+[youtube] gsUPN9h9Kd4: Downloading tv simply player API JSON
+[youtube] gsUPN9h9Kd4: Downloading tv client config
+[youtube] gsUPN9h9Kd4: Downloading tv player API JSON
+[info] gsUPN9h9Kd4: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim, CA New Record Time!.f137.mp4
+[download] 100% of  196.50MiB in 00:00:52 at 3.73MiB/s
+[download] Destination: downloads/K1 Speed Anaheim, CA New Record Time!.f140.m4a
+[download] 100% of    5.75MiB in 00:00:01 at 4.71MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim, CA New Record Time!.mp4"
+Deleting original file downloads/K1 Speed Anaheim, CA New Record Time!.f137.mp4 (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim, CA New Record Time!.f140.m4a (pass -k to keep)
+
+[4/10] Processing: https://youtu.be/Z8XSbud_OEo?si=zATy_tqmLVtVMs7Nhttps://youtu.be/9oE0ByeTF58?si=WNjQfgmco2YKnNyn
+[youtube] Extracting URL: https://youtu.be/Z8XSbud_OEo?si=zATy_tqmLVtVMs7Nhttps://youtu.be/9oE0ByeTF58?si=WNjQfgmco2YKnNyn
+[youtube] Z8XSbud_OEo: Downloading webpage
+[youtube] Z8XSbud_OEo: Downloading tv simply player API JSON
+[youtube] Z8XSbud_OEo: Downloading tv client config
+[youtube] Z8XSbud_OEo: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!
+Duration: 6:13
+[youtube] Extracting URL: https://youtu.be/Z8XSbud_OEo?si=zATy_tqmLVtVMs7Nhttps://youtu.be/9oE0ByeTF58?si=WNjQfgmco2YKnNyn
+[youtube] Z8XSbud_OEo: Downloading webpage
+[youtube] Z8XSbud_OEo: Downloading tv simply player API JSON
+[youtube] Z8XSbud_OEo: Downloading tv client config
+[youtube] Z8XSbud_OEo: Downloading tv player API JSON
+[info] Z8XSbud_OEo: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!.f137.mp4
+[download] 100% of  190.75MiB in 00:00:32 at 5.84MiB/s
+[download] Destination: downloads/K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!.f140.m4a
+[download] 100% of    5.75MiB in 00:00:01 at 3.73MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!.mp4"
+Deleting original file downloads/K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!.f137.mp4 (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim Best track of SoCal! COMPETITIVE RACERS!.f140.m4a (pass -k to keep)
+
+[5/10] Processing: https://youtu.be/uoor0Gvhn-s?si=8UBYad5eqkknltaE
+[youtube] Extracting URL: https://youtu.be/uoor0Gvhn-s?si=8UBYad5eqkknltaE
+[youtube] uoor0Gvhn-s: Downloading webpage
+[youtube] uoor0Gvhn-s: Downloading tv simply player API JSON
+[youtube] uoor0Gvhn-s: Downloading tv client config
+[youtube] uoor0Gvhn-s: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim,  California!
+Duration: 6:35
+[youtube] Extracting URL: https://youtu.be/uoor0Gvhn-s?si=8UBYad5eqkknltaE
+[youtube] uoor0Gvhn-s: Downloading webpage
+[youtube] uoor0Gvhn-s: Downloading tv simply player API JSON
+[youtube] uoor0Gvhn-s: Downloading tv client config
+[youtube] uoor0Gvhn-s: Downloading tv player API JSON
+[info] uoor0Gvhn-s: Downloading 1 format(s): 299+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim,  California!.f299.mp4
+[download] 100% of  273.14MiB in 00:01:14 at 3.65MiB/s
+[download] Destination: downloads/K1 Speed Anaheim,  California!.f140.m4a
+[download] 100% of    6.10MiB in 00:00:01 at 3.89MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim,  California!.mp4"
+Deleting original file downloads/K1 Speed Anaheim,  California!.f299.mp4 (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim,  California!.f140.m4a (pass -k to keep)
+
+[6/10] Processing: https://youtu.be/dT9xRd86h18?si=CdAzn8-5hbdqCFdr
+[youtube] Extracting URL: https://youtu.be/dT9xRd86h18?si=CdAzn8-5hbdqCFdr
+[youtube] dT9xRd86h18: Downloading webpage
+[youtube] dT9xRd86h18: Downloading tv simply player API JSON
+[youtube] dT9xRd86h18: Downloading tv client config
+[youtube] dT9xRd86h18: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME)
+Duration: 11:05
+[youtube] Extracting URL: https://youtu.be/dT9xRd86h18?si=CdAzn8-5hbdqCFdr
+[youtube] dT9xRd86h18: Downloading webpage
+[youtube] dT9xRd86h18: Downloading tv simply player API JSON
+[youtube] dT9xRd86h18: Downloading tv client config
+[youtube] dT9xRd86h18: Downloading tv player API JSON
+[info] dT9xRd86h18: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME).f137.mp4
+[download] 100% of  351.29MiB in 00:01:05 at 5.35MiB/s
+[download] Destination: downloads/K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME).f140.m4a
+[download] 100% of   10.26MiB in 00:00:02 at 4.55MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME).mp4"
+Deleting original file downloads/K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME).f140.m4a (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim Arrive and Drive September 21, 2024 (PERSONAL BEST LAP TIME).f137.mp4 (pass -k to keep)
+
+[7/10] Processing: https://youtu.be/rVo3Z9MddAA?si=9Mz_PzXl1eLpWEyu
+[youtube] Extracting URL: https://youtu.be/rVo3Z9MddAA?si=9Mz_PzXl1eLpWEyu
+[youtube] rVo3Z9MddAA: Downloading webpage
+[youtube] rVo3Z9MddAA: Downloading tv simply player API JSON
+[youtube] rVo3Z9MddAA: Downloading tv client config
+[youtube] rVo3Z9MddAA: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim Arrive and Drive June 1, 2025
+Duration: 6:18
+[youtube] Extracting URL: https://youtu.be/rVo3Z9MddAA?si=9Mz_PzXl1eLpWEyu
+[youtube] rVo3Z9MddAA: Downloading webpage
+[youtube] rVo3Z9MddAA: Downloading tv simply player API JSON
+[youtube] rVo3Z9MddAA: Downloading tv client config
+[youtube] rVo3Z9MddAA: Downloading tv player API JSON
+[info] rVo3Z9MddAA: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim Arrive and Drive June 1, 2025.f137.mp4
+[download] 100% of  177.74MiB in 00:00:38 at 4.58MiB/s
+[download] Destination: downloads/K1 Speed Anaheim Arrive and Drive June 1, 2025.f140.m4a
+[download] 100% of    5.84MiB in 00:00:01 at 5.01MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim Arrive and Drive June 1, 2025.mp4"
+Deleting original file downloads/K1 Speed Anaheim Arrive and Drive June 1, 2025.f140.m4a (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim Arrive and Drive June 1, 2025.f137.mp4 (pass -k to keep)
+
+[8/10] Processing: https://youtu.be/O6z2jAs6wLc?si=93KWaMC1wrbuLkVy
+[youtube] Extracting URL: https://youtu.be/O6z2jAs6wLc?si=93KWaMC1wrbuLkVy
+[youtube] O6z2jAs6wLc: Downloading webpage
+[youtube] O6z2jAs6wLc: Downloading tv simply player API JSON
+[youtube] O6z2jAs6wLc: Downloading tv client config
+[youtube] O6z2jAs6wLc: Downloading tv player API JSON
+Downloading: Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020
+Duration: 9:04
+[youtube] Extracting URL: https://youtu.be/O6z2jAs6wLc?si=93KWaMC1wrbuLkVy
+[youtube] O6z2jAs6wLc: Downloading webpage
+[youtube] O6z2jAs6wLc: Downloading tv simply player API JSON
+[youtube] O6z2jAs6wLc: Downloading tv client config
+[youtube] O6z2jAs6wLc: Downloading tv player API JSON
+[info] O6z2jAs6wLc: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020.f137.mp4
+[download] 100% of  290.01MiB in 00:00:38 at 7.50MiB/s
+[download] Destination: downloads/Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020.f140.m4a
+[download] 100% of    8.40MiB in 00:00:03 at 2.32MiB/s
+[Merger] Merging formats into "downloads/Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020.mp4"
+Deleting original file downloads/Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020.f137.mp4 (pass -k to keep)
+Deleting original file downloads/Anaheim CA K1 Speed Go-Pro Challenge GP Qualify 24.9 - March 1st 2020.f140.m4a (pass -k to keep)
+
+[9/10] Processing: https://youtu.be/B0EIkD3yIbI?si=F7p2ZxTNXZ20O9Jk
+[youtube] Extracting URL: https://youtu.be/B0EIkD3yIbI?si=F7p2ZxTNXZ20O9Jk
+[youtube] B0EIkD3yIbI: Downloading webpage
+[youtube] B0EIkD3yIbI: Downloading tv simply player API JSON
+[youtube] B0EIkD3yIbI: Downloading tv client config
+[youtube] B0EIkD3yIbI: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew
+Duration: 5:53
+[youtube] Extracting URL: https://youtu.be/B0EIkD3yIbI?si=F7p2ZxTNXZ20O9Jk
+[youtube] B0EIkD3yIbI: Downloading webpage
+[youtube] B0EIkD3yIbI: Downloading tv simply player API JSON
+[youtube] B0EIkD3yIbI: Downloading tv client config
+[youtube] B0EIkD3yIbI: Downloading tv player API JSON
+[info] B0EIkD3yIbI: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew.f137.mp4
+[download] 100% of  189.48MiB in 00:00:26 at 7.03MiB/s
+[download] Destination: downloads/K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew.f140.m4a
+[download] 100% of    5.45MiB in 00:00:01 at 4.11MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew.mp4"
+Deleting original file downloads/K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew.f137.mp4 (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim 25.454 - Mid-month Practice with Fast Crew.f140.m4a (pass -k to keep)
+
+[10/10] Processing: https://youtu.be/MqSAneZZG3c?si=G-emgMn2xYXKbaKa
+[youtube] Extracting URL: https://youtu.be/MqSAneZZG3c?si=G-emgMn2xYXKbaKa
+[youtube] MqSAneZZG3c: Downloading webpage
+[youtube] MqSAneZZG3c: Downloading tv simply player API JSON
+[youtube] MqSAneZZG3c: Downloading tv client config
+[youtube] MqSAneZZG3c: Downloading tv player API JSON
+Downloading: K1 Speed Anaheim March Challenge GP
+Duration: 8:29
+[youtube] Extracting URL: https://youtu.be/MqSAneZZG3c?si=G-emgMn2xYXKbaKa
+[youtube] MqSAneZZG3c: Downloading webpage
+[youtube] MqSAneZZG3c: Downloading tv simply player API JSON
+[youtube] MqSAneZZG3c: Downloading tv client config
+[youtube] MqSAneZZG3c: Downloading tv player API JSON
+[info] MqSAneZZG3c: Downloading 1 format(s): 137+140
+[download] Sleeping 5.00 seconds as required by the site...
+[download] Destination: downloads/K1 Speed Anaheim March Challenge GP.f137.mp4
+[download] 100% of  272.75MiB in 00:00:39 at 6.90MiB/s
+[download] Destination: downloads/K1 Speed Anaheim March Challenge GP.f140.m4a
+[download] 100% of    7.86MiB in 00:00:01 at 5.06MiB/s
+[Merger] Merging formats into "downloads/K1 Speed Anaheim March Challenge GP.mp4"
+Deleting original file downloads/K1 Speed Anaheim March Challenge GP.f137.mp4 (pass -k to keep)
+Deleting original file downloads/K1 Speed Anaheim March Challenge GP.f140.m4a (pass -k to keep)
+
+============================================================
+DOWNLOAD SUMMARY :3
+============================================================
+Total videos processed: 10
+Successfully downloaded: 10
+Failed downloads: 0
+Total duration: 1h 10m 59s
